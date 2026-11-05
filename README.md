@@ -9,7 +9,6 @@ code/           Figure-linked analysis scripts and paths_config.py
 shared_input/   Core this-study omics matrices
 ```
 
-Figure-to-script map: `FIGURE_SCRIPT_MAP.tsv`.
 
 ## `shared_input.zip`
 
